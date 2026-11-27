@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Equitable quotients of outerplanar graphs are outerplanar (Lean 4 formalization)"
+authors:
+  - family-names: Lipscomb
+    given-names: Parker
+type: software
+license: MIT
+date-released: 2026-11-27
+repository-code: "https://github.com/P101305/outerplanar-equitable-quotient-lean"
